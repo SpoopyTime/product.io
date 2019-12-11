@@ -1,13 +1,21 @@
 body {
 
 }
+a:hover{
+  color:white;
+}
+img {
+  height:400px;
+  width:400px;
+}
 h1 {
 font-size: 80px;
+color:white;
 
 }
 h2 {
 
 }
 p {
-
+ color:white;
 }
