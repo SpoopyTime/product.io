@@ -1,21 +1,24 @@
-body {
-
+td {
+  color:orange;
 }
-a:hover{
+th {
+  color:orange;
+}
+a{
   color:white;
 }
 img {
   height:400px;
   width:400px;
+  filter:invert(100%);
+
 }
 h1 {
 font-size: 80px;
 color:white;
-
 }
-h2 {
 
-}
 p {
  color:white;
+ font-size:40px;
 }
